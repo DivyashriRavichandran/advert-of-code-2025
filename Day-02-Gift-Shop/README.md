@@ -1,6 +1,6 @@
 ## 🎄 Day 2: Gift Shop
 
-You’re given several product ID ranges. An ID is invalid if it is made of a sequence of digits repeated twice (e.g., 11, 6464, 123123).
+You’re given several product ID ranges. An ID is invalid if it's made of a sequence of digits repeating twice (e.g., 11, 6464, 123123).
 
 ### Part 1
 
