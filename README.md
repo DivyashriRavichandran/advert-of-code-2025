@@ -11,6 +11,7 @@ This repository contains my solutions for [Advent of Code 2025](https://adventof
 | Day 3 – Lobby               | [Link](https://adventofcode.com/2025/day/3) | [JS](https://github.com/DivyashriRavichandran/advert-of-code-2025/tree/main/Day-03-Lobby)               |
 | Day 4 – Printing Department | [Link](https://adventofcode.com/2025/day/4) | [JS](https://github.com/DivyashriRavichandran/advert-of-code-2025/tree/main/Day-04-Printing-Department) |
 | Day 5 – Cafeteria           | [Link](https://adventofcode.com/2025/day/5) | [JS](https://github.com/DivyashriRavichandran/advert-of-code-2025/tree/main/Day-05-Cafeteria)           |
+| Day 6 – Trash Compactor     | [Link](https://adventofcode.com/2025/day/6) | [JS](https://github.com/DivyashriRavichandran/advert-of-code-2025/tree/main/Day-06-Trash-Compactor)     |
 
 <br/>
 
